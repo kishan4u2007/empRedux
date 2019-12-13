@@ -2,7 +2,7 @@
 
 This a basic crud react-redux-featherjs application for managing contacts. It currently uses MongoDB for the database and FeathersJS for the REST API server. 
 
-https://www.sitepoint.com/crud-app-react-redux-feathersjs/
+https://github.com/kishan4u2007/empRedux.git
 
 ##  How to install
 
